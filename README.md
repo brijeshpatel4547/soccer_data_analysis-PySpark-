@@ -1,4 +1,4 @@
-Using PySpark to perform the Data Tranformations on the Soccer Data and finding the patterns in 
+Using PySpark to perform the Data Tranformations and Data Cleaning  on the Soccer Data and finding the patterns in 
 the data to answer the Analytical Questions.
 
 1. Who are the winners of the D1 division in the Germany Football Association (Bundesliga) between 2000–2010?
